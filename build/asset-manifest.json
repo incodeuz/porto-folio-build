@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21015706.chunk.css",
+    "main.js": "/static/js/main.0c99bb2e.chunk.js",
+    "main.js.map": "/static/js/main.0c99bb2e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.305d7f37.js",
+    "runtime-main.js.map": "/static/js/runtime-main.305d7f37.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.2ef95619.chunk.js": "/static/js/2.2ef95619.chunk.js",
+    "static/js/2.2ef95619.chunk.js.map": "/static/js/2.2ef95619.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.af3ab7ac.chunk.css.map": "/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.21015706.chunk.css.map": "/static/css/main.21015706.chunk.css.map",
+    "static/js/2.2ef95619.chunk.js.LICENSE.txt": "/static/js/2.2ef95619.chunk.js.LICENSE.txt",
+    "static/media/facebookIcon.24894ee6.png": "/static/media/facebookIcon.24894ee6.png",
+    "static/media/githubIcon.fa7b1db4.png": "/static/media/githubIcon.fa7b1db4.png",
+    "static/media/instagramIcon.d256fe5d.png": "/static/media/instagramIcon.d256fe5d.png",
+    "static/media/linkedinIcon.a7509b75.png": "/static/media/linkedinIcon.a7509b75.png",
+    "static/media/logo.ecb21897.jpg": "/static/media/logo.ecb21897.jpg",
+    "static/media/me.53815e12.png": "/static/media/me.53815e12.png",
+    "static/media/me1.dff81837.jpg": "/static/media/me1.dff81837.jpg",
+    "static/media/me2.190cbaa2.jpg": "/static/media/me2.190cbaa2.jpg",
+    "static/media/me3.d6eff533.jpg": "/static/media/me3.d6eff533.jpg",
+    "static/media/pro1.513d8171.jpg": "/static/media/pro1.513d8171.jpg",
+    "static/media/pro2.bccc81ad.jpg": "/static/media/pro2.bccc81ad.jpg",
+    "static/media/pro3.ef034a14.jpg": "/static/media/pro3.ef034a14.jpg",
+    "static/media/pro4.8eba7a04.jpg": "/static/media/pro4.8eba7a04.jpg",
+    "static/media/pro5.3712b1a2.jpg": "/static/media/pro5.3712b1a2.jpg",
+    "static/media/pro6.b4985e3a.jpg": "/static/media/pro6.b4985e3a.jpg",
+    "static/media/telegramIcon.601fb961.png": "/static/media/telegramIcon.601fb961.png",
+    "static/media/youtubeIcon.e3305ccf.png": "/static/media/youtubeIcon.e3305ccf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.305d7f37.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.2ef95619.chunk.js",
+    "static/css/main.21015706.chunk.css",
+    "static/js/main.0c99bb2e.chunk.js"
+  ]
+}
